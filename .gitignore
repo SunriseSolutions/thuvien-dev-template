@@ -1,4 +1,10 @@
 
+###> DEV TOOLS ###
+/.idea
+###< DEV TOOLS ###
+
+
+
 ###> symfony/framework-bundle ###
 /.env
 /public/bundles/
